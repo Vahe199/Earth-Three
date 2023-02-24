@@ -1,0 +1,24 @@
+{
+  "name": "earth",
+  "version": "1.0.0",
+  "description": "1. Clone this repository on your system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnayetHossain/Earth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnayetHossain/Earth/issues"
+  },
+  "homepage": "https://github.com/EnayetHossain/Earth#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "three": "^0.127.0"
+  }
+}
